@@ -5,14 +5,13 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-11-29 21:33:37 +0800 -->
+<!-- 最后更新时间 2025-11-29 22:27:59 +0800 -->
 1. [9点1氪｜北京快递外卖用车将发放专用号牌；雷军称所有产业都值得用AI再做一遍；淘宝闪购骑手超时扣款将全面取消](https://36kr.com/p/3573448466480002)
 1. [山下有松“上山”，慢即是快｜厚雪公司](https://36kr.com/p/3570653778705540)
 1. [拥有出色判断力的人，究竟做对了什么？](https://36kr.com/p/3573394939133056)
 1. [《疯狂动物城2》力挽狂澜，2025年500亿稳了](https://36kr.com/p/3572815402843264)
-1. [9人团队做的开放世界，爆卖了1个亿？事情没那么简单](https://36kr.com/p/3572838543391621)
 1. [阿里美团即时零售都打不动了](https://36kr.com/p/3573780981332865)
-1. [以超级供应链破解中小企业发展痛点，京东PLUS企业会员让采购更省更高效｜WISE2025商业之王](https://36kr.com/p/3572580995742599)
+1. [9人团队做的开放世界，爆卖了1个亿？事情没那么简单](https://36kr.com/p/3572838543391621)
 1. [蔚来：真 “困境反转” 了吗？](https://36kr.com/p/3572870666681472)
 1. [王兴怎么办](https://36kr.com/p/3573486060525705)
 1. [优必选卖了13亿、宇树冲刺IPO，人形机器人这波是虚假繁荣吗？](https://36kr.com/p/3573683700078727)
@@ -27,6 +26,7 @@
 1. [日元会再次跌至160的历史低位吗？](https://36kr.com/p/3573423999597700)
 1. [中建壹品·海宸元境开盘，销售逾180套](https://36kr.com/p/3573673939483781)
 1. [从“被动存储”到“主动利用”，数据治理重塑未来医疗](https://36kr.com/p/3572320534494336)
+1. [以超级供应链破解中小企业发展痛点，京东PLUS企业会员让采购更省更高效｜WISE2025商业之王](https://36kr.com/p/3572580995742599)
 1. [Gemini立功了，谷歌AI再次伟大，百度阿里们可以抄作业了？](https://36kr.com/p/3572671380871559)
 1. [氪星晚报｜雷军：未来5年，人形机器人将大面积在小米工厂上岗；淘宝闪购将全面取消超时扣款，以正向激励提升骑士保障与用户体验；美永久停止接收所谓第三世界移民](https://36kr.com/p/3571098005847170)
 1. [AI让MAGA陷入严重分裂，考验特朗普“制衡术”](https://36kr.com/p/3572629467708289)
@@ -109,7 +109,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-11-29 21:33:37 +0800 -->
+<!-- 最后更新时间 2025-11-29 22:27:58 +0800 -->
 1. [AI可以取代我，那我的意义是？](https://b23.tv/BV1QMSjBREzr)
 1. [在？看看你的钱｜钱来！藏在人民币里的中式美学](https://b23.tv/BV16vSjBTE3V)
 1. [《原神》杜林角色PV——「一封家书」](https://b23.tv/BV1dUUvBjEe9)
@@ -249,7 +249,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2025-11-29 21:33:37 +0800 -->
+<!-- 最后更新时间 2025-11-29 22:27:59 +0800 -->
 1. [sansan0/TrendRadar (Python) ⭐32,048](https://github.com/sansan0/TrendRadar)
 1. [google/adk-go (Go) ⭐5,350](https://github.com/google/adk-go)
 1. [TapXWorld/ChinaTextbook (Roff) ⭐59,834](https://github.com/TapXWorld/ChinaTextbook)
@@ -275,62 +275,65 @@
 ## 抖音
 
 <!-- BEGIN DOUYIN -->
-<!-- 最后更新时间 2025-11-29 21:36:42 +0800 -->
+<!-- 最后更新时间 2025-11-29 22:28:00 +0800 -->
 1. [苏翊鸣大跳台世界杯夺金](https://www.douyin.com/hot/2321271)
 1. [让你打球不是让你犁地](https://www.douyin.com/hot/2321131)
 1. [万亿冰雪经济“上新”](https://www.douyin.com/hot/2321066)
 1. [即刻上场开播](https://www.douyin.com/hot/2321069)
-1. [藏在人民币里的中式美学](https://www.douyin.com/hot/2320775)
+1. [你离开的事实钢琴版](https://www.douyin.com/hot/2321203)
 1. [净网：网警斩断非法引流黑手](https://www.douyin.com/hot/2320952)
 1. [邓紫棋南宁演唱会](https://www.douyin.com/hot/2321385)
 1. [香港火灾失踪名单144人确认安全](https://www.douyin.com/hot/2321422)
-1. [你离开的事实钢琴版](https://www.douyin.com/hot/2321203)
-1. [BLG官宣Elk离队](https://www.douyin.com/hot/2321173)
+1. [藏在人民币里的中式美学](https://www.douyin.com/hot/2320775)
 1. [汪苏泷杭州演唱会](https://www.douyin.com/hot/2321386)
+1. [BLG官宣Elk离队](https://www.douyin.com/hot/2321173)
 1. [警方辟谣“女学生被捂鼻强拖”](https://www.douyin.com/hot/2321433)
 1. [地铁百万撤离挑战赛](https://www.douyin.com/hot/2321370)
 1. [雪场显眼包的上板OOTD](https://www.douyin.com/hot/2321043)
 1. [南海部分海域将进行实弹射击](https://www.douyin.com/hot/2321090)
 1. [疯狂动物城2观后感](https://www.douyin.com/hot/2320866)
+1. [斯里兰卡进入公共紧急状态](https://www.douyin.com/hot/2321522)
 1. [成都混团世界杯抽签仪式](https://www.douyin.com/hot/2321372)
-1. [周末约会就看疯狂动物城2](https://www.douyin.com/hot/2321375)
 1. [国际金价又涨了](https://www.douyin.com/hot/2321048)
 1. [王毅会见英首相国安顾问](https://www.douyin.com/hot/2321033)
-1. [U17亚预赛国足8:0斯里兰卡](https://www.douyin.com/hot/2320876)
+1. [周末约会就看疯狂动物城2](https://www.douyin.com/hot/2321375)
 1. [市值500亿天风证券被立案](https://www.douyin.com/hot/2321031)
 1. [李盈莹官宣加入米兰俱乐部](https://www.douyin.com/hot/2321006)
 1. [老君山挑山工才是山的代言人](https://www.douyin.com/hot/2320357)
+1. [U17亚预赛国足8:0斯里兰卡](https://www.douyin.com/hot/2320876)
+1. [现场看齐达内踢野球太丝滑了](https://www.douyin.com/hot/2321074)
+1. [我不知为何疯狂对你执着](https://www.douyin.com/hot/2320905)
+1. [开头那两下我承认我轻敌了](https://www.douyin.com/hot/2320943)
+1. [对疯狂动物城2的开发不足1%](https://www.douyin.com/hot/2321083)
+1. [薛之谦新歌农民与土地](https://www.douyin.com/hot/2320898)
+1. [普京宣布与乌克兰停火条件](https://www.douyin.com/hot/2321216)
+1. [迪丽热巴陈星旭烟花吻名场面](https://www.douyin.com/hot/2321277)
+1. [Rapeter和小莴结婚了](https://www.douyin.com/hot/2321319)
+1. [东契奇戏耍克莱](https://www.douyin.com/hot/2321220)
+1. [RED唱抒情歌反差感](https://www.douyin.com/hot/2321125)
+1. [张婧仪：到底谁在叫我啊](https://www.douyin.com/hot/2321307)
+1. [罗晋新剧顶配人夫哥](https://www.douyin.com/hot/2321070)
+1. [疯狂动物城2现实寓言](https://www.douyin.com/hot/2320341)
+1. [疯狂动物城我先cos上了](https://www.douyin.com/hot/2320257)
+1. [重温疯狂动物城第一部](https://www.douyin.com/hot/2320703)
+1. [亦舞之城名场面给我演爽了](https://www.douyin.com/hot/2321257)
+1. [陈浚铭天生小狗圣体](https://www.douyin.com/hot/2320708)
+1. [看完动物城一定要等彩蛋](https://www.douyin.com/hot/2320266)
+1. [用暖系氛围感打开冬日](https://www.douyin.com/hot/2320242)
+1. [敖瑞鹏帅一天再抽象一晚上](https://www.douyin.com/hot/2321050)
+1. [和平精英战场密钥](https://www.douyin.com/hot/2320636)
+1. [枭起青壤林喜柔兽性掺着人性](https://www.douyin.com/hot/2320607)
+1. [醉人奇妙夜皇子出嫁记](https://www.douyin.com/hot/2321467)
+1. [冯睿谭思婷恨海情天具象化](https://www.douyin.com/hot/2321267)
+1. [别问了当然是宁宁](https://www.douyin.com/hot/2320435)
 1. [郭士强赛后总结](https://www.douyin.com/hot/2320791)
 1. [萨姆纳加盟广东宏远](https://www.douyin.com/hot/2320758)
-1. [开头那两下我承认我轻敌了](https://www.douyin.com/hot/2320943)
-1. [我不知为何疯狂对你执着](https://www.douyin.com/hot/2320905)
-1. [对疯狂动物城2的开发不足1%](https://www.douyin.com/hot/2321083)
-1. [Rapeter和小莴结婚了](https://www.douyin.com/hot/2321319)
-1. [普京宣布与乌克兰停火条件](https://www.douyin.com/hot/2321216)
-1. [薛之谦新歌农民与土地](https://www.douyin.com/hot/2320898)
-1. [亦舞之城名场面给我演爽了](https://www.douyin.com/hot/2321257)
-1. [东契奇戏耍克莱](https://www.douyin.com/hot/2321220)
-1. [疯狂动物城2现实寓言](https://www.douyin.com/hot/2320341)
-1. [张婧仪：到底谁在叫我啊](https://www.douyin.com/hot/2321307)
-1. [迪丽热巴陈星旭烟花吻名场面](https://www.douyin.com/hot/2321277)
-1. [敖瑞鹏帅一天再抽象一晚上](https://www.douyin.com/hot/2321050)
-1. [陈浚铭天生小狗圣体](https://www.douyin.com/hot/2320708)
-1. [RED唱抒情歌反差感](https://www.douyin.com/hot/2321125)
-1. [重温疯狂动物城第一部](https://www.douyin.com/hot/2320703)
-1. [枭起青壤林喜柔兽性掺着人性](https://www.douyin.com/hot/2320607)
-1. [别问了当然是宁宁](https://www.douyin.com/hot/2320435)
-1. [和平精英战场密钥](https://www.douyin.com/hot/2320636)
-1. [醉人奇妙夜皇子出嫁记](https://www.douyin.com/hot/2321467)
 1. [得闲谨制千呼万唤始出来](https://www.douyin.com/hot/2320863)
-1. [看完动物城一定要等彩蛋](https://www.douyin.com/hot/2320266)
-1. [疯狂动物城我先cos上了](https://www.douyin.com/hot/2320257)
 1. [和朱迪尼克合影我先拍了](https://www.douyin.com/hot/2320072)
-1. [现场看齐达内踢野球太丝滑了](https://www.douyin.com/hot/2321074)
 1. [我国完成第一阶段6G技术试验](https://www.douyin.com/hot/2321399)
 1. [这几部抗战主题纪录片值得看](https://www.douyin.com/hot/2321476)
 1. [李在明哀悼香港火灾遇难者](https://www.douyin.com/hot/2321130)
 1. [詹姆斯空接背扣](https://www.douyin.com/hot/2321146)
-1. [用暖系氛围感打开冬日](https://www.douyin.com/hot/2320242)
 1. [白月梵星转场还能这么玩](https://www.douyin.com/hot/2320785)
 1. [官方：开展高层建筑火灾隐患排查](https://www.douyin.com/hot/2321273)
 1. [这真是张桂源吵着非要拍](https://www.douyin.com/hot/2320704)
@@ -386,34 +389,34 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-11-29 21:33:38 +0800 -->
+<!-- 最后更新时间 2025-11-29 22:28:00 +0800 -->
 1. [后台太多记不住？我做了一个统一门户把所有系统全串起来了](https://juejin.cn/post/7576532425762144271)
 1. [你的IDEA还缺什么？我离不开的这两款效率插件推荐](https://juejin.cn/post/7576863819982749705)
-1. [让Trae CN SOLO自主发挥，看看能做出一个什么样的项目](https://juejin.cn/post/7576867727718662179)
 1. [🍭🍭🍭升级 AntD 6：做第一个吃螃蟹的人 ](https://juejin.cn/post/7576571960286822435)
+1. [让Trae CN SOLO自主发挥，看看能做出一个什么样的项目](https://juejin.cn/post/7576867727718662179)
 1. [黑马喽大闹天宫与JavaScript的寻亲记：作用域与作用域链全解析](https://juejin.cn/post/7577594229413756947)
 1. [一种新HTML页面转换成 PDF 技术方案](https://juejin.cn/post/7576608733612425242)
-1. [深入理解withContext和launch的真正区别](https://juejin.cn/post/7577001324416712754)
 1. [给 TRAE SOLO 一台服务器，它能干什么？](https://juejin.cn/post/7576821684252475435)
+1. [深入理解withContext和launch的真正区别](https://juejin.cn/post/7577001324416712754)
 1. [基于MCP架构的DevUI多组件协作实践：打造智能业务分析平台](https://juejin.cn/post/7577220965437980726)
 1. [图片标签用 img 还是 picture？很多人彻底弄混了！](https://juejin.cn/post/7577298871005036578)
 1. [ 作用域链 × 闭包：三段代码，看懂 JavaScript 的套娃人生](https://juejin.cn/post/7577364921657049130)
-1. [告别Redis瓶颈：Caffeine本地缓存优化实战指南](https://juejin.cn/post/7577226553286180899)
 1. [一些经典的3D编辑器开源项目](https://juejin.cn/post/7576867727719039011)
+1. [告别Redis瓶颈：Caffeine本地缓存优化实战指南](https://juejin.cn/post/7577226553286180899)
 1. [做了十年游戏，我才意识到：程序员最该投资的，是一台专业的编程显示器](https://juejin.cn/post/7577218195234177070)
 1. [别再当 AI 的"人肉定位器"了：一个工具让 React/Vue组件秒定位](https://juejin.cn/post/7576843726011908122)
 1. [当我把 proto 打印出来那一刻，我懂了JS的原型链](https://juejin.cn/post/7577599015426310179)
-1. [耗时一周，我把可视化+零代码+AI融入到了CRM系统，使用体验超酷！](https://juejin.cn/post/7577171133444620324)
 1. [还在用 WebSocket 做实时通信？SSE 可能更简单](https://juejin.cn/post/7576559408659611700)
+1. [耗时一周，我把可视化+零代码+AI融入到了CRM系统，使用体验超酷！](https://juejin.cn/post/7577171133444620324)
 1. [国内最强AI IDE：Trae Solo中国版来了！完全免费～](https://juejin.cn/post/7576894999095492635)
+1. [Android ButterKnife Android 35情况下 适配 Gradle 8.+](https://juejin.cn/post/7577049352839397391)
+1. [10分钟搞定！SpringBoot+Vue3 整合 SSE 实现实时消息推送](https://juejin.cn/post/7576867727719677987)
 1. [栈（Stack）：从“弹夹”到算法面试题的进阶之路](https://juejin.cn/post/7577284968923676672)
 1. [Flutter版本选择指南：3.35稳定，3.38发布 | 2025年11月](https://juejin.cn/post/7577189654488989746)
-1. [Android ButterKnife Android 35情况下 适配 Gradle 8.+](https://juejin.cn/post/7577049352839397391)
-1. [Go.1.25.4 和 Go.1.24.10 发布了！！](https://juejin.cn/post/7577229187896344611)
-1. [诶，这么好用的 mock 你怎么不早说](https://juejin.cn/post/7577016562252644403)
-1. [10分钟搞定！SpringBoot+Vue3 整合 SSE 实现实时消息推送](https://juejin.cn/post/7576867727719677987)
-1. [TRAE SOLO中国版终于来了，完全免费！](https://juejin.cn/post/7576580177662132234)
 1. [深入 Nestjs 底层概念（1）：依赖注入和面向切面编程 AOP](https://juejin.cn/post/7576555431943503882)
+1. [TRAE SOLO中国版终于来了，完全免费！](https://juejin.cn/post/7576580177662132234)
+1. [诶，这么好用的 mock 你怎么不早说](https://juejin.cn/post/7577016562252644403)
+1. [Go.1.25.4 和 Go.1.24.10 发布了！！](https://juejin.cn/post/7577229187896344611)
 1. [3天，1人，从0到付费产品：AI时代个人开发者的生存指南](https://juejin.cn/post/7577653509862654002)
 1. [🔥100+ 天，已全面支持鸿蒙！uView Pro 近期更新盘点及未来计划](https://juejin.cn/post/7576859594360766464)
 1. [🚀TRAE SOLO Coder ：网页版“切水果”游戏开发实录，基于手势识别的互动游戏制作🧣](https://juejin.cn/post/7576273949178708031)
@@ -423,20 +426,21 @@
 1. [5 个 AI 操纵手机的 GitHub 项目，太强了](https://juejin.cn/post/7577031454585454619)
 1. [ 前端三大权限场景全解析：设计、实现、存储与企业级实践](https://juejin.cn/post/7576821684251918379)
 1. [深入理解 JavaScript Promise：原理、用法与实践](https://juejin.cn/post/7577563004482420790)
-1. [ JavaScript 中的 简单数据类型：Symbol——是JavaScript成熟的标志](https://juejin.cn/post/7577411657394176042)
+1. [5 分钟把 Coze 智能体嵌入网页：原生 JS + Vite 极简方案](https://juejin.cn/post/7577675494067552282)
+1. [Python真的要一统天下了？](https://juejin.cn/post/7115595433472163870)
 1. [从「似懂非懂」到「了如指掌」：Promise 与原型链全维度拆解](https://juejin.cn/post/7577704980854685750)
+1. [ JavaScript 中的 简单数据类型：Symbol——是JavaScript成熟的标志](https://juejin.cn/post/7577411657394176042)
 1. [Apple StoreKit 2 开发指南](https://juejin.cn/post/7577215663968190506)
 1. [十年开发告诉你什么是“烂代码”](https://juejin.cn/post/7576867727719268387)
 1. [都React 19了,他到底带来了什么?](https://juejin.cn/post/7576559408660234292)
-1. [Python真的要一统天下了？](https://juejin.cn/post/7115595433472163870)
-1. [5 分钟把 Coze 智能体嵌入网页：原生 JS + Vite 极简方案](https://juejin.cn/post/7577675494067552282)
-1. [2025 年最新 Fabric.js 实战：一个完整可上线的图片选区标注组件（含全部源码）.](https://juejin.cn/post/7577256255083659273)
-1. [Dragonboat统一存储LogDB实现分析｜得物技术](https://juejin.cn/post/7576928310788898868)
 1. [别再让Claude乱写代码了！一个配置文件让AI准确率提升10%](https://juejin.cn/post/7576861477267079187)
+1. [Dragonboat统一存储LogDB实现分析｜得物技术](https://juejin.cn/post/7576928310788898868)
+1. [2025 年最新 Fabric.js 实战：一个完整可上线的图片选区标注组件（含全部源码）.](https://juejin.cn/post/7577256255083659273)
+1. [Vue 3 + Vite + Router + Pinia + Element Plus + Monorepo + qiankun 构建企业级中后台前端框架](https://juejin.cn/post/7577295460248469550)
+1. [我是如何使用 Trae IDE 完成《流碧卡片》项目的完整记录](https://juejin.cn/post/7577202452800176128)
 1. [Java 字符串三巨头：String、StringBuilder、StringJoiner —— 初学者避坑指南 🤯](https://juejin.cn/post/7577715145120923702)
 1. [Git Worktree + Claude Code：让你的开发效率翻倍的秘密武器](https://juejin.cn/post/7577278843233566763)
 1. [我的变量去哪了？JS 作用域入门指南](https://juejin.cn/post/7577256255083511817)
-1. [我是如何使用 Trae IDE 完成《流碧卡片》项目的完整记录](https://juejin.cn/post/7577202452800176128)
 1. [女朋友又给我出难题了：解锁网页禁用复制 + 一键提取图片文字](https://juejin.cn/post/7576197876717797414)
 1. [这 5 个冷门的 HTML 标签，能让你少写 100 行 JS](https://juejin.cn/post/7576468602304495654)
 1. [Web前端们！我用三年亲身经历，说说从 uniapp 到 Flutter怎么转型的，这条路我爬过，坑我踩过](https://juejin.cn/post/7576378563575545871)
@@ -465,7 +469,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-11-29 21:33:38 +0800 -->
+<!-- 最后更新时间 2025-11-29 22:28:00 +0800 -->
 1. [新玩意 227｜少数派的编辑们最近买了啥？](https://sspai.com/post/103969)
 1. [中档价位真无线耳机横评与建议（2025 年终） - TDS 无心快语](https://sspai.com/post/103767)
 1. [新玩意 226｜少数派的编辑们最近买了啥？](https://sspai.com/post/103810)
@@ -513,7 +517,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-11-29 21:33:37 +0800 -->
+<!-- 最后更新时间 2025-11-29 22:27:59 +0800 -->
 1. [人偶游戏](https://weread.qq.com/web/bookDetail/f66323f0813abac36g019be9)
 1. [谁在时间的彼岸（钟汉良、秦岚主演电视剧《亦舞之城》原著）](https://weread.qq.com/web/bookDetail/b7b32e9072377b79b7bf679)
 1. [侯门聘：能掐会算贵女×旺妻糙汉将军](https://weread.qq.com/web/bookDetail/2ac324f0813ababa6g013b8b)
@@ -541,7 +545,7 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2025-11-29 21:36:42 +0800 -->
+<!-- 最后更新时间 2025-11-29 22:28:00 +0800 -->
 1. [健全网络生态治理长效机制](https://www.kuaishou.com/short-video/3xnpp9ywu5wh95y)
 1. [8艘大平板铲除一切“毒苗”](https://www.kuaishou.com/short-video/3xpkfg5ery6u7jy)
 1. [156颗卫星组建太空星眼](https://www.kuaishou.com/short-video/3x2q6trbjica9as)
