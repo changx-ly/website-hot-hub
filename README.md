@@ -5,22 +5,23 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-12-14 10:28:10 +0800 -->
-1. [百年零售巨头，宣布破产](https://36kr.com/p/3593418393387009)
+<!-- 最后更新时间 2025-12-14 12:04:51 +0800 -->
 1. [2500亿，网红薯片被卖了](https://36kr.com/p/3593664270942215)
 1. [CPU，为何“偷偷转型”？](https://36kr.com/p/3593384476459008)
-1. [投资AI的VC会变成AI吗？](https://36kr.com/p/3593388129648647)
 1. [跨越15年的《阿凡达》，能否再掀观影热潮？](https://36kr.com/p/3593542702268421)
 1. [赚不到更多美国人的钱，lululemon的CEO辞职了](https://36kr.com/p/3593442147680261)
 1. [手握近3000亿现金，万亿“宁王”为何还要发百亿债券？](https://36kr.com/p/3593259269653252)
-1. [深度智联地产AI就绪，房地产智能化进入“交付时刻”](https://36kr.com/p/3593367577182470)
+1. [零成本、无需微调：提示词加几个字让能大模型创造力暴涨 2 倍](https://36kr.com/p/3565781735111553)
+1. [小扎忍痛，亲口宣告了元宇宙的死亡](https://36kr.com/p/3594758056902913)
 1. [甲骨文暴跌40%，AI 过度基建会拖垮巨头吗？](https://36kr.com/p/3593430206186245)
 1. [冬季「烧钱三件套」，把北京人卷疯了](https://36kr.com/p/3594687549079554)
-1. [零成本、无需微调：提示词加几个字让能大模型创造力暴涨 2 倍](https://36kr.com/p/3565781735111553)
+1. [深度智联地产AI就绪，房地产智能化进入“交付时刻”](https://36kr.com/p/3593367577182470)
+1. [造型撞脸小米 YU7，绝不做 SUV 的迈凯伦，还是妥协了](https://36kr.com/p/3594788694196484)
 1. [DIY 玩家的坏消息：又一个内存巨头离场了](https://36kr.com/p/3594073824198661)
 1. [8 年后回到斯坦福，布林复盘谷歌 AI：错在太谨慎](https://36kr.com/p/3594700672008963)
-1. [小扎忍痛，亲口宣告了元宇宙的死亡](https://36kr.com/p/3594758056902913)
 1. [机器人能插花、能救援，但能安全走进你家吗？](https://36kr.com/p/3593670472286217)
+1. [百年零售巨头，宣布破产](https://36kr.com/p/3593418393387009)
+1. [投资AI的VC会变成AI吗？](https://36kr.com/p/3593388129648647)
 <!-- END 36KR -->
 
 历史归档 [./archives/36kr](./archives/36kr)
@@ -28,7 +29,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-12-14 10:28:10 +0800 -->
+<!-- 最后更新时间 2025-12-14 12:04:50 +0800 -->
 
 <!-- END BILIBILI -->
 
@@ -37,7 +38,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2025-12-14 10:28:10 +0800 -->
+<!-- 最后更新时间 2025-12-14 12:04:51 +0800 -->
 1. [CopilotKit/CopilotKit (TypeScript) ⭐26,201](https://github.com/CopilotKit/CopilotKit)
 1. [DayuanJiang/next-ai-draw-io (TypeScript) ⭐9,159](https://github.com/DayuanJiang/next-ai-draw-io)
 1. [thedotmack/claude-mem (TypeScript) ⭐5,264](https://github.com/thedotmack/claude-mem)
@@ -186,7 +187,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-12-14 10:28:11 +0800 -->
+<!-- 最后更新时间 2025-12-14 12:04:51 +0800 -->
 1. [从美团全栈化看 AI 冲击：前端转全栈，是自救还是必然 🤔🤔🤔](https://juejin.cn/post/7581999251368460340)
 1. [豆包手机为什么会被其他厂商抵制？它的工作原理是什么？](https://juejin.cn/post/7582469532326920228)
 1. [为什么 AI 明明写后端更爽，但却都网传 AI 取代前端，而不是 AI 取代后端？就离谱...](https://juejin.cn/post/7582528397865254939)
@@ -200,33 +201,41 @@
 1. [轻松搞定年度报告可视化，五分钟用 AntV + Trae Solo 快速构建智能图表生成器！](https://juejin.cn/post/7581741663182749731)
 1. [十分钟速览 Kotlin Flow 操作符](https://juejin.cn/post/7581870491762671668)
 1. [10GB vs 600MB：我们弃用 GitLab，选择了这个轻量级神器](https://juejin.cn/post/7582637280217858102)
-1. [iOS逆向-哔哩哔哩增加3倍速（1）-最大播放速度](https://juejin.cn/post/7582063437414285350)
-1. [从零打造一个无依赖的Canvas图片编辑器](https://juejin.cn/post/7582067084839764022)
 1. [已有Flutter项目适配鸿蒙6](https://juejin.cn/post/7582149417768812594)
 1. [Jetpack Compose 2025年12月版本新增功能](https://juejin.cn/post/7582776967818215424)
 1. [5小时整理60页《Google Agent指南》，不懂Agent的包教包会](https://juejin.cn/post/7581765536372965385)
-1. [JDK 21 虚拟线程：Java 并发编程的“降维打击”](https://juejin.cn/post/7582073642869473295)
 1. [MCP 爆火背后：是技术革命，还是精心包装的“新瓶旧酒”？](https://juejin.cn/post/7581888578507522075)
-1. [彻底讲透浏览器的事件循环，吊打面试官](https://juejin.cn/post/7582110969200590886)
+1. [👊👊👊领导让我从vue转到react，我敲泥*](https://juejin.cn/post/7582516300049596443)
 1. [如果我问你 Context，你扛得住吗？](https://juejin.cn/post/7582039917217988608)
 1. [前端怎么防止用户复制？这10种方法让你的内容更安全](https://juejin.cn/post/7581727073582137395)
-1. [👊👊👊领导让我从vue转到react，我敲泥*](https://juejin.cn/post/7582516300049596443)
 1. [Trae Solo模式实战：我用3小时撸了个儿童睡前故事网页](https://juejin.cn/post/7582311711429935147)
-1. [Open-AutoGLM Windows 安装部署教程](https://juejin.cn/post/7582047554089615369)
-1. [GPT-5.2 提前泄露？今夜，OpenAI 要拿 Gemini 3 祭天！](https://juejin.cn/post/7582231988147241011)
-1. [开源一个 Nuxt 4 导航站模板，功能完整，拿来即用！](https://juejin.cn/post/7582110969201197094)
-1. [Android全局悬浮拖拽视图](https://juejin.cn/post/7582246395987148834)
-1. [逛逛今天推荐 4 个 GitHub 开源项目，非常实用。](https://juejin.cn/post/7582156219059404863)
 1. [vue框架无痛开发浏览器插件，好用！！本人使用脚手架开发了一款浏览器tab主页加收藏网址弹窗，以后可以自己开发需要的插件了！！](https://juejin.cn/post/7582844980399013928)
-1. [Next.js 近期高危漏洞完整指南：原理 + 攻击示例（前端易懂版）](https://juejin.cn/post/7581702285564379186)
-1. [Vue 3 统一面包屑导航系统：从配置地狱到单一数据源](https://juejin.cn/post/7582358932027998223)
-1. [按钮太多了？基于ResizeObserver优雅显示](https://juejin.cn/post/7582419803782742051)
+1. [GPT-5.2 提前泄露？今夜，OpenAI 要拿 Gemini 3 祭天！](https://juejin.cn/post/7582231988147241011)
+1. [Android全局悬浮拖拽视图](https://juejin.cn/post/7582246395987148834)
+1. [开源一个 Nuxt 4 导航站模板，功能完整，拿来即用！](https://juejin.cn/post/7582110969201197094)
 1. [我只是给Typescript提个 typo PR，为什么还要签协议？](https://juejin.cn/post/7582815307438899251)
-1. [一个让你爽歪歪的请求工具是怎样的](https://juejin.cn/post/7581752787563413544)
+1. [Next.js 近期高危漏洞完整指南：原理 + 攻击示例（前端易懂版）](https://juejin.cn/post/7581702285564379186)
 1. [三种方式打 Java 可执行 JAR 包，你用对了吗？](https://juejin.cn/post/7582786292087455795)
+1. [按钮太多了？基于ResizeObserver优雅显示](https://juejin.cn/post/7582419803782742051)
+1. [Vue 3 统一面包屑导航系统：从配置地狱到单一数据源](https://juejin.cn/post/7582358932027998223)
+1. [一个让你爽歪歪的请求工具是怎样的](https://juejin.cn/post/7581752787563413544)
+1. [Vite 到底能干嘛？为什么 Vue3 官方推荐它做工程化工具？](https://juejin.cn/post/7582480048957915163)
 1. [同事写的count(*)性能很差，如何优化？](https://juejin.cn/post/7582406735387394054)
-1. [每天上亿条日志，Elasticsearch 是怎么扛住的？](https://juejin.cn/post/7582118538562404371)
 1. [如何从Axios平滑迁移到Alova](https://juejin.cn/post/7582096212663599104)
+1. [别卷模型了！上下文工程才是大模型应用的王道！](https://juejin.cn/post/7582857981894131753)
+1. [我封装了一个“瑞士军刀”级插件，并顺手搞定了自动化部署](https://juejin.cn/post/7582413770091446310)
+1. [从0到1搭建一个智能分析OBS埋点数据的AI Agent｜得物技术](https://juejin.cn/post/7582118538562420755)
+1. [【Perfetto从入门到精通】2. 使用 Perfetto 追踪/分析 APP 的 Native/Java 内存](https://juejin.cn/post/7582041304655249454)
+1. [✨TRAE SOLO + Holopix AI | 复刻 GBA 游戏-"🐛口袋妖怪"](https://juejin.cn/post/7582755817671442442)
+1. [全网爆火的豆包手机，到底是如何实现自动化的？一篇文章带你了解](https://juejin.cn/post/7582422766730739755)
+1. [拆解一个由 setTimeout 引发的“页面假死”悬案](https://juejin.cn/post/7582413770091839526)
+1. [iOS逆向-哔哩哔哩增加3倍速（1）-最大播放速度](https://juejin.cn/post/7582063437414285350)
+1. [从零打造一个无依赖的Canvas图片编辑器](https://juejin.cn/post/7582067084839764022)
+1. [JDK 21 虚拟线程：Java 并发编程的“降维打击”](https://juejin.cn/post/7582073642869473295)
+1. [彻底讲透浏览器的事件循环，吊打面试官](https://juejin.cn/post/7582110969200590886)
+1. [Open-AutoGLM Windows 安装部署教程](https://juejin.cn/post/7582047554089615369)
+1. [逛逛今天推荐 4 个 GitHub 开源项目，非常实用。](https://juejin.cn/post/7582156219059404863)
+1. [每天上亿条日志，Elasticsearch 是怎么扛住的？](https://juejin.cn/post/7582118538562404371)
 1. [彻底搞懂微服务 TraceId 传递：ThreadLocal、TTL 与全链路日志追踪实战](https://juejin.cn/post/7582067084839665718)
 1. [我的服务器带宽被“偷”了，于是我写了个脚本来抓现行](https://juejin.cn/post/7582003642192019498)
 <!-- END JUEJIN -->
@@ -236,7 +245,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-12-14 10:28:12 +0800 -->
+<!-- 最后更新时间 2025-12-14 12:04:55 +0800 -->
 1. [在 2025 年复活一台黑莓 Q25](https://sspai.com/post/104334)
 1. [新玩意 229｜少数派的编辑们最近买了啥？](https://sspai.com/post/104311)
 1. [「黑五」值得买：不容错过的数码硬件优惠](https://sspai.com/post/104157)
@@ -284,7 +293,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-12-14 10:28:10 +0800 -->
+<!-- 最后更新时间 2025-12-14 12:04:50 +0800 -->
 1. [周易有答案：人真的能算出自己的命运吗](https://weread.qq.com/web/bookDetail/04a328d0813abae60g019c38)
 1. [高嫁：聪慧贵女×腹黑王爷](https://weread.qq.com/web/bookDetail/4ab32ad0813abad4bg0191ee)
 1. [创意行为：存在即答案](https://weread.qq.com/web/bookDetail/5a332100813ab9d83g018139)
@@ -312,51 +321,80 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2025-12-14 10:28:12 +0800 -->
+<!-- 最后更新时间 2025-12-14 12:04:53 +0800 -->
 1. [明年经济工作这么干](https://www.kuaishou.com/short-video/3xb2t6xwxw5y3r6)
 1. [演员何晴离世](https://www.kuaishou.com/short-video/3x43mj9k2y7r8ki)
-1. [日本八纮一宇塔应当被拆除](https://www.kuaishou.com/short-video/3x5jvfwadh42uhg)
-1. [解读中央经济工作会议精神](https://www.kuaishou.com/short-video/3xhzv8u7ztfxan9)
-1. [福建舰官兵探亲途中救火](https://www.kuaishou.com/short-video/3xbjv22xccaidss)
-1. [泰总理称未开始停火谈判](https://www.kuaishou.com/short-video/3xyty36t4imf55a)
+1. [巧家消防医护拆耕地机救人](https://www.kuaishou.com/short-video/3xnnrgz7i8qmq7u)
+1. [外媒眼中的中国经济关键词](https://www.kuaishou.com/short-video/3xfv8x7j5etzdrc)
+1. [何晴 四大名著大满贯](https://www.kuaishou.com/short-video/3xn58u7u9na9i4a)
+1. [北京双井医院因劣药被罚](https://www.kuaishou.com/short-video/3xxeqkdwecffxae)
+1. [美联航客机发动机故障起火](https://www.kuaishou.com/short-video/3xbgryinzcdexka)
+1. [姜暮靳朝机车抱](https://www.kuaishou.com/short-video/3xxnix6xmcpjq4u)
+1. [木薯糖水食用需谨慎](https://www.kuaishou.com/short-video/3x9sb9h4mecg5cc)
+1. [今年的丰收有多不容易](https://www.kuaishou.com/short-video/3xt45udcpheuyge)
+1. [联合国维和部队苏丹遇袭](https://www.kuaishou.com/short-video/3xfmwncihr4amrg)
+1. [重庆江北机场辟谣T2停用](https://www.kuaishou.com/short-video/3xkmj9x8h76fhfw)
+1. [赵雅芝为花开天下准备了新技能](https://www.kuaishou.com/short-video/3xqan43pe55bchq)
+1. [草莓这些年可冤死了](https://www.kuaishou.com/short-video/3xbpva5eaq3reh2)
+1. [翟一莹贾翼瑄大胃王巅峰对决](https://www.kuaishou.com/short-video/3xr3e7vcuuvqf8a)
 1. [车厘子批发价大跳水](https://www.kuaishou.com/short-video/3xrbfczcn2dgtca)
-1. [中国天然气产量将达3000亿立方米](https://www.kuaishou.com/short-video/3xfzmxsziegv6pu)
+1. [大眠翻唱](https://www.kuaishou.com/short-video/3xj5viks9y66wm9)
+1. [日本八纮一宇塔应当被拆除](https://www.kuaishou.com/short-video/3x5jvfwadh42uhg)
+1. [我提笔不为离愁转场](https://www.kuaishou.com/short-video/3xtphxitg7zgwyy)
+1. [泰总理称未开始停火谈判](https://www.kuaishou.com/short-video/3xyty36t4imf55a)
+1. [姑妈篮球是什么梗](https://www.kuaishou.com/short-video/3xdpjmdcavs2yac)
+1. [100秒解读明年中国经济怎么干](https://www.kuaishou.com/short-video/3xrdbzqbf89eg7y)
+1. [北部战区空军驱离外机](https://www.kuaishou.com/short-video/3x32zr7xabmf5uw)
+1. [何晴 古典第一美女的含金量](https://www.kuaishou.com/short-video/3x8qsyug3xd9qxk)
+1. [盲老太求助被拒后看手机事件反转](https://www.kuaishou.com/short-video/3xfpjpisse57rp2)
+1. [日本住持捐出5000份日军侵华史料](https://www.kuaishou.com/short-video/3xnvsa8gwew5gvi)
+1. [女友撕毁前任买的衣服](https://www.kuaishou.com/short-video/3xyuzj63wuwrn69)
+1. [福建舰官兵探亲途中救火](https://www.kuaishou.com/short-video/3xbjv22xccaidss)
+1. [白鹿在场外干着急](https://www.kuaishou.com/short-video/3x5tnrmp7aprrqq)
+1. [斯洛特盼萨拉赫非洲杯后回归球队](https://www.kuaishou.com/short-video/3x7ds7sax8xsq92)
+1. [王艳晒19岁儿子近照](https://www.kuaishou.com/short-video/3xcw83gqiuss5qe)
 1. [冲锋衣成城市消费新宠](https://www.kuaishou.com/short-video/3xf2ykazbrrtpzg)
+1. [海南与国家能源集团深化合作](https://www.kuaishou.com/short-video/3xdnyzb59mder3i)
+1. [宋晓峰鹤岗品小串](https://www.kuaishou.com/short-video/3x66gbdpzv7ckje)
+1. [女主播诋毁同行被罚后仍不悔改](https://www.kuaishou.com/short-video/3xhxrxc92nqpcuu)
+1. [8人聚餐卡式炉突然爆炸](https://www.kuaishou.com/short-video/3xg7zh6uap2vups)
+1. [水银体温计线上炒至99元](https://www.kuaishou.com/short-video/3x8pi25rk8wcvi6)
+1. [新加坡一男子砍伤邻居被捕](https://www.kuaishou.com/short-video/3xc5uzyre2zt3ru)
+1. [太阳岛雪博会火热建设中](https://www.kuaishou.com/short-video/3xihkxgyh8pqx7a)
+1. [何晴与许亚军育有一子](https://www.kuaishou.com/short-video/3x6rvjh4z2yaey6)
+1. [你从来没有在乎我的感受翻唱](https://www.kuaishou.com/short-video/3xmn83imaj52786)
+1. [WTT香港总决赛12月14日赛程](https://www.kuaishou.com/short-video/3xk8iq35ekvfud9)
+1. [六岁女孩拼音误会舅舅](https://www.kuaishou.com/short-video/3xgtvf6339raaqy)
+1. [虞书欣哭戏](https://www.kuaishou.com/short-video/3xuz8738zd58jcm)
+1. [颗秒摇](https://www.kuaishou.com/short-video/3x395wcuksuri29)
+1. [雷霆vs马刺](https://www.kuaishou.com/short-video/3xcs8g892ezt8x9)
+1. [母子参观抗战纪念馆](https://www.kuaishou.com/short-video/3x99jti38hjm98y)
+1. [俄称不负责任政客煽动战争](https://www.kuaishou.com/short-video/3xsbdth5nxuki7c)
+1. [中国天然气产量将达3000亿立方米](https://www.kuaishou.com/short-video/3xfzmxsziegv6pu)
+1. [2025残特奥会会歌幕后揭秘](https://www.kuaishou.com/short-video/3xdritqn6g9x6x4)
+1. [解读中央经济工作会议精神](https://www.kuaishou.com/short-video/3xhzv8u7ztfxan9)
 1. [致敬残特奥会运动员](https://www.kuaishou.com/short-video/3xnmrmw5xnaamdc)
 1. [陆佳成残特奥会夺金告慰亡母](https://www.kuaishou.com/short-video/3xc6f72tzv3dxbu)
-1. [重庆江北机场辟谣T2停用](https://www.kuaishou.com/short-video/3xkmj9x8h76fhfw)
 1. [李倩倩谈假病毒技术突破](https://www.kuaishou.com/short-video/3xi8u2w5668b2pu)
-1. [盲老太求助被拒后看手机事件反转](https://www.kuaishou.com/short-video/3xfpjpisse57rp2)
-1. [女主播诋毁同行被罚后仍不悔改](https://www.kuaishou.com/short-video/3xhxrxc92nqpcuu)
-1. [100秒解读明年中国经济怎么干](https://www.kuaishou.com/short-video/3xrdbzqbf89eg7y)
-1. [姑妈篮球是什么梗](https://www.kuaishou.com/short-video/3xdpjmdcavs2yac)
 1. [日军细菌战不止针对中国](https://www.kuaishou.com/short-video/3xg4cmmdy2bct7c)
 1. [三角洲典狱长cos](https://www.kuaishou.com/short-video/3xjv74suczuz82q)
-1. [WTT香港总决赛12月14日赛程](https://www.kuaishou.com/short-video/3xk8iq35ekvfud9)
 1. [空白love转场](https://www.kuaishou.com/short-video/3xzjhhqf5medheu)
 1. [当有公主病的人要转到我们寝室](https://www.kuaishou.com/short-video/3xmivqskzkgzz5q)
 1. [跑男挑出了白鹿最喜欢的粉发照片](https://www.kuaishou.com/short-video/3xvf3nj69ppncyk)
-1. [王艳晒19岁儿子近照](https://www.kuaishou.com/short-video/3xcw83gqiuss5qe)
 1. [白岩松谈公考舞弊漏洞](https://www.kuaishou.com/short-video/3xp3gy8jgjaxpzk)
 1. [今朝若是同淋雪此生也算共白头](https://www.kuaishou.com/short-video/3xyyriji5hsamja)
-1. [水银体温计线上炒至99元](https://www.kuaishou.com/short-video/3x8pi25rk8wcvi6)
 1. [专家谈国际刑事法院遭美俄抵制](https://www.kuaishou.com/short-video/3x4kxjbz2r3geei)
-1. [日本住持捐出5000份日军侵华史料](https://www.kuaishou.com/short-video/3xnvsa8gwew5gvi)
-1. [你从来没有在乎我的感受翻唱](https://www.kuaishou.com/short-video/3xmn83imaj52786)
 1. [警惕新型诈骗手法](https://www.kuaishou.com/short-video/3xf59esfiy5at5u)
 1. [不讲不讲是什么梗](https://www.kuaishou.com/short-video/3xxerfepkpxzm7k)
 1. [原来天蓝才是汝瓷界的隐藏款](https://www.kuaishou.com/short-video/3xdk7gy74mxm3x2)
-1. [8人聚餐卡式炉突然爆炸](https://www.kuaishou.com/short-video/3xg7zh6uap2vups)
 1. [眼科专家魏文斌回忆公益经历](https://www.kuaishou.com/short-video/3x5zzm6esa3is5u)
 1. [我才8岁被日军刺得血流满身](https://www.kuaishou.com/short-video/3x4e9ezdivxzxi6)
 1. [林葳NCAA生涯新高8分](https://www.kuaishou.com/short-video/3x462mwgp5wpxb6)
-1. [白鹿在场外干着急](https://www.kuaishou.com/short-video/3x5tnrmp7aprrqq)
 1. [湖人兜售克内克特](https://www.kuaishou.com/short-video/3xn3pqdxh9rdt32)
 1. [洪秀柱痛批高市早苗挑衅言论](https://www.kuaishou.com/short-video/3x2f5kweuhacitg)
 1. [残特奥会助力曲爱无处不在MV上线](https://www.kuaishou.com/short-video/3xgq36m26uktwxq)
 1. [张真源台州特辑哭戏reaction](https://www.kuaishou.com/short-video/3xqe97nvzz92vjy)
 1. [湖南怀化贩婴案18人落网](https://www.kuaishou.com/short-video/3xz4ipiqrnbgufg)
-1. [虞书欣哭戏](https://www.kuaishou.com/short-video/3xuz8738zd58jcm)
 1. [山东德州银装素裹](https://www.kuaishou.com/short-video/3xudnpiwcj9wv49)
 1. [今日香港总决赛4场神仙对决](https://www.kuaishou.com/short-video/3x798rertnermyi)
 1. [重庆10人聚餐9人开溜事件进展](https://www.kuaishou.com/short-video/3x4783jn9bunwg6)
